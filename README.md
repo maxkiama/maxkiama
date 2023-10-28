@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Casey Ochieng</h1>
+<h1 align="center">Hi 👋, I'm "Maxwell Kiama</h1>
 <h3 align="center">As a junior developer, I am constantly learning and improving my skills in the field of programming. I am passionate about coding and have dedicated countless hours to honing my craft and staying up-to-date with the latest technologies and best practices. 
 </h3>
 
