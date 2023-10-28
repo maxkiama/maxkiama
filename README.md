@@ -9,12 +9,12 @@
 
 - 👯 I’m looking to collaborate with **other programmers**
 
-- ⚡ Fun fact **Designing and Profiling.**
+- ⚡ Fun fact **I love Designing ,I'm a Project manager .**
 
 ### Connect with me
 
-<a href="https://twitter.com/ForgeTwoy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Maxwell Kiama" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/Maxwell Kiama-303330247" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Maxwell Kiama" height="22" width="22" /></a>
+<a href="https://" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Maxwell Kiama" height="22" width="22" /></a>
+<a href="https://" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Maxwell Kiama" height="22" width="22" /></a>
 
 <br />
 
